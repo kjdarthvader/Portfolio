@@ -9,3 +9,6 @@ As a Deep Learning Researcher at the LLVM Research Group and a Machine Learning 
 🔗 **[Connect with me on LinkedIn](https://www.linkedin.com/in/kavinjindel)** for more insights into my professional journey.
 
 # Projects
+
+## Data Analysis and Visualisation
+
