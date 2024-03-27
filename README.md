@@ -4,3 +4,5 @@ Welcome to my GitHub portfolio, a comprehensive showcase of my journey in data s
 
 🔗 **[Connect with me on LinkedIn](https://www.linkedin.com/in/kavinjindel)** for more insights into my professional journey.
 
+# Contents
+
