@@ -11,5 +11,5 @@ As a Deep Learning Researcher at the LLVM Research Group and a Machine Learning 
 # Projects
 
 ## Data Analysis and Visualisation
-- Titanic (Kaggle Dataset) - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas, NumPy, Matplotlib and Seaborn visualisations. The link to the dataset is https://www.kaggle.com/datasets/yasserh/titanic-dataset
-- Movies Dataset - Exploratory Analysis: Exploratory Analysis of Fandango's ratings in 2015 using Pandas, NumPy, Matplotlib and Seaborn visualisations to identify if there was a bias towards rating movies better to sell more tickets. The link to the dataset is https://github.com/fivethirtyeight/data
+- **Titanic (Kaggle Dataset) - Exploratory Analysis:** Exploratory Analysis of the passengers onboard RMS Titanic using Pandas, NumPy, Matplotlib and Seaborn visualisations. The link to the dataset is https://www.kaggle.com/datasets/yasserh/titanic-dataset
+- **Movies Dataset - Exploratory Analysis:** Exploratory Analysis of Fandango's ratings in 2015 using Pandas, NumPy, Matplotlib and Seaborn visualisations to identify if there was a bias towards rating movies better to sell more tickets. The link to the dataset is https://github.com/fivethirtyeight/data
