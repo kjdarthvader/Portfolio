@@ -11,4 +11,4 @@ As a Deep Learning Researcher at the LLVM Research Group and a Machine Learning 
 # Projects
 
 ## Data Analysis and Visualisation
-
+- Titanic (Kaggle Dataset) - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas, NumPy, Matplotlib and Seaborn visualisations. The Link to the dataset is https://www.kaggle.com/datasets/yasserh/titanic-dataset
