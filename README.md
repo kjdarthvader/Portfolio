@@ -11,6 +11,8 @@ As a Deep Learning Researcher and Machine Learning Assistant, I've contributed t
 
 # Projects
 
+## Machine Learning
+
 ## Data Analysis and Visualisation
 - [**Titanic (Kaggle Dataset) - Exploratory Analysis:**](https://github.com/kjdarthvader/Portfolio/blob/main/911%20Calls%20-%20Exploratory%20Data%20Analysis.ipynb) Exploratory Analysis of the passengers onboard RMS Titanic using Pandas, NumPy, Matplotlib and Seaborn visualisations. The link to the dataset is [Kaggle](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 - [**Movies Dataset - Exploratory Analysis:**](https://github.com/kjdarthvader/Portfolio/blob/main/Movies%20Dataset%20-%20Exploratory%20Analysis.ipynb) Exploratory Analysis of Fandango's ratings in 2015 using Pandas, NumPy, Matplotlib and Seaborn visualisations to identify if there was a bias towards rating movies better to sell more tickets. The link to the dataset is [Github](https://github.com/fivethirtyeight/data)
