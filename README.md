@@ -1,14 +1,8 @@
 # Welcome to My GitHub Portfolio
 
-![Data Science and Machine Learning Banner](path/to/your/banner_image.jpg)
-*Banner description: A sleek and modern design featuring elements of data visualization, neural networks, and code, with a vibrant color palette to convey energy and creativity.*
-
 Welcome! I'm a Data Science and Machine Learning enthusiast with a background in Statistics and Computer Science from the University of Illinois Urbana-Champaign. This portfolio showcases my journey in leveraging data to solve real-world problems through machine learning, deep learning, and data analysis & visualization. Each project is a testament to my dedication to advancing data science and pushing the boundaries of innovation.
 
 ## About Me
-
-![Tech-Focused Graphic](path/to/your/about_me_image.jpg)
-*Graphic description: An abstract representation of neural networks and data structures, emphasizing a tech-savvy and innovative vibe.*
 
 As a Deep Learning Researcher and Machine Learning Assistant, I've contributed to significant advancements in precision agriculture and neuromorphic computing. My experiences at Tata Consultancy Services and Goldman Sachs have broadened my expertise to include cloud architecture, financial analytics, and more. Passionate about AI's transformative power, I aim to explore and contribute to the convergence of technology and human potential, driving the future of innovation.
 
